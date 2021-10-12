@@ -4,3 +4,5 @@ torchaudio===0.9.1
 -f https://download.pytorch.org/whl/torch_stable.html
 
 jupyter
+tensorboard
+git+https://github.com/NVIDIA/PyProf.git
