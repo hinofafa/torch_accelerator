@@ -1,6 +1,11 @@
 # torch_accelerator
 Experiments to boost GPU device to extreme
 
+### Todo
+1. Automatic Mixed Precision FP16 
+2. Activate Tensor Core 
+3. Distribution of params on Tensorboard
+
 ### Reference
 1. Tensor Core
 https://www.nvidia.com/en-us/data-center/tensor-cores/
