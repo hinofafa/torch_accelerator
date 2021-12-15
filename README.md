@@ -1,5 +1,5 @@
 # torch_accelerator
-Experiments to boost GPU device to extreme
+Experiments to boost GPU device to PyTorch training
 
 ### Todo
 1. Automatic Mixed Precision FP16 
